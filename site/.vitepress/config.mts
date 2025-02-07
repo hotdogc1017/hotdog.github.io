@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "hotdog's blob",
-  description: "hotdog's blob",
+  title: "My blob",
+  description: "Utils and others",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "hotdog's blob"
-  text: "hotdog's blob"
+  name: "My blob"
+  text: "Utils and others"
   tagline: My great project tagline
   actions:
     - theme: brand
