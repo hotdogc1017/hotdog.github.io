@@ -9,6 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "@ai-sdk/deepseek": "^0.1.8",
     "ai": "^4.1.24"
   }
 }
